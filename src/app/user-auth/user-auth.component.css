@@ -1,0 +1,52 @@
+h3{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.signUpform{
+    display: flex;
+    width:300px;
+    margin:auto;
+    text-align: center;
+    flex-direction: column;
+}
+.auth-toggle-link{
+    color: black;
+    padding-top: 11px;
+}
+.link{
+    color: blueviolet;
+    text-decoration: underline;
+    cursor: pointer;
+}
+p{
+    color:red;
+}
+.form-input{
+    height: 35px;
+    margin-bottom: 15px;
+    padding-left:10px;
+    border:1px solid blueviolet;
+    border-radius: 2px;
+}
+.form-button{
+    height:35px;
+    border:1px solid blueviolet;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.loginform{
+    display: flex;
+    width:300px;
+    margin:auto;
+    text-align: center;
+    flex-direction: column;
+}
+.invalidInput{
+    text-align: left;
+    margin-top: -17px;
+}
+button:disabled{
+    cursor:not-allowed;
+}

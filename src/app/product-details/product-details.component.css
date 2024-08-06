@@ -1,0 +1,33 @@
+img{
+    object-fit: contain;
+    width:100%;
+    height:400px;
+}
+.product-details{
+    margin-top: 50px;
+    margin-bottom: 24px;
+}
+.details {
+    margin-top: 43px;
+    margin-left: 10px;
+}
+.form-button{
+    border:1px solid blueviolet;
+    color: blueviolet;
+    cursor: pointer;
+    height:35px;
+    padding-bottom:5px;
+    margin-bottom:20px;
+}
+input{
+    width:50px;
+    padding:10px;
+}
+.box{
+    width: 37px;
+    height: 33px;
+    border:1px solid black
+}
+.quantity-group button{
+    padding:10px;
+}

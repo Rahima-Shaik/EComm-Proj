@@ -1,0 +1,12 @@
+
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color:black;
+}
+.carousel{
+ margin-top: 40px;
+}
+.carousel-inner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+

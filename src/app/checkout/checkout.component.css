@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.checkout{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.form-input{
+    height: 32px;
+    margin-bottom: 16px;
+    padding-left:10px;
+    border:1px solid blueviolet;
+    border-radius: 2px;
+}
+.common-form{
+    display: flex;
+    width:300px;
+    margin:auto;
+    text-align: center;
+    flex-direction: column;
+}
+.shipping-address h4{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.form-button{
+    height:35px;
+    border:1px solid blueviolet;
+    border-radius: 2px;
+    cursor: pointer;
+    color: blueviolet;
+}
+.order-msg{
+    color: green;
+    text-align: center;
+}

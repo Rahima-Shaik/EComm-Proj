@@ -1,0 +1,15 @@
+<div class="row">  
+    <div class="col-md-12">
+        <h4>Update Product</h4>
+        <p class="success_msg">{{prodMsg}}</p>
+        <form #updateForm="ngForm" class="update-form">
+            <input type="text" name="name" placeholder="Enter Product Name" class="form-input" ngModel="{{productData?.name}}" /><br>
+            <input type="text" name="price" placeholder="Enter Product Price" class="form-input" ngModel="{{productData?.price}}"/><br>
+            <input type="text" name="color" placeholder="Enter Product Color" class="form-input" ngModel="{{productData?.color}}"/><br>
+            <input type="text" name="category" placeholder="Enter Product Category" class="form-input" ngModel="{{productData?.category}}" /><br>
+            <textarea type="text" name="description" placeholder="Enter Product Description" class="form-input" ngModel="{{productData?.description}}"></textarea><br>
+            <input type="text" name="image" placeholder="Enter Product image URL" class="form-input" ngModel="{{productData?.image}}"/><br>
+            <button type="button" class="form-button" (click)="updateProduct(updateForm.value)" >Update Product</button>
+        </form>
+    </div>
+</div>

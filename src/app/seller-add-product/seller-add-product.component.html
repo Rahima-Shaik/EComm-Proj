@@ -1,0 +1,16 @@
+
+<div class="row">  
+    <div class="col-md-12">
+        <h4>Add New Product</h4>
+        <p class="success_msg">{{prodMsg}}</p>
+        <form #productForm="ngForm" class="product-form">
+            <input type="text" name="name" placeholder="Enter Product Name" class="form-input" ngModel/><br>
+            <input type="text" name="price" placeholder="Enter Product Price" class="form-input" ngModel/><br>
+            <input type="text" name="color" placeholder="Enter Product Color" class="form-input" ngModel/><br>
+            <input type="text" name="category" placeholder="Enter Product Category" class="form-input" ngModel/><br>
+            <textarea type="text" name="description" placeholder="Enter Product Description" class="form-input" ngModel></textarea><br>
+            <input type="text" name="image" placeholder="Enter Product image URL" class="form-input" ngModel/><br>
+            <button type="button" class="form-button" (click)="addProduct(productForm.value)" >Add Product</button>
+        </form>
+    </div>
+</div>

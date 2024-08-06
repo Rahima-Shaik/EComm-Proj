@@ -1,0 +1,286 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sindhu",
+      "email": "anil.sindhu@gmail.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "Karishma",
+      "email": "karishma.shaik@gmail.com",
+      "password": "karishma123",
+      "id": 2
+    },
+    {
+      "name": "Rahima Shaik",
+      "email": "shaik.rahima@456.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Thahira",
+      "email": "thahira@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "manisha",
+      "email": "manisha@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Karuna",
+      "email": "karuna@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "nithya",
+      "email": "nithya@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Gayatri",
+      "email": "gayatri@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "Harshi",
+      "email": "harshi@gmail.com",
+      "password": "abc123",
+      "id": 9
+    },
+    {
+      "name": "Madhuri",
+      "email": "madhuri@gmail.com",
+      "password": "abc123",
+      "id": 10
+    },
+    {
+      "name": "neha",
+      "email": "neha@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "nandini",
+      "email": "nandhu@gmail.com",
+      "password": "1234",
+      "id": 12
+    },
+    {
+      "name": "manisha",
+      "email": "manisha@gmail.com",
+      "password": "123",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "name": "HP laptop Pro",
+      "price": "100000",
+      "color": "White",
+      "category": "Lapop",
+      "description": "HP Laptop has updated",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-jW-YGHtX9Aa3DmrCtU-PiH9UVgnxgd7ng&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy M51",
+      "price": "23000",
+      "color": "Sky Blue",
+      "category": "Mobile",
+      "description": "samsung prod",
+      "image": "https://m.media-amazon.com/images/I/516f8bKMO0L._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 2
+    },
+    {
+      "name": " iPhone 12 Mini",
+      "price": "100000",
+      "color": "Purple",
+      "category": "Mobile",
+      "description": "\niPhone 12 Mini",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8RF2OsOZk8HtOeZVLg77_FyTHnabBa6kePAAquF8UztTTDJnXHJW0yfe1UAWlHsGkao&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "HP laptop",
+      "price": "120000",
+      "color": "Black",
+      "category": "Lapop",
+      "description": "HP Laptop",
+      "image": "https://img6.gadgetsnow.com/gd/images/products/additional/large/G448534_View_1/computer-laptop/laptops/hp-15s-fq3071tu-intel-celeron-n4500-15-6-inches-entertainment-laptop-8gb-512gb-ssd-windows-11-natural-silver-1-69-kg-.jpg",
+      "id": 4
+    },
+    {
+      "name": "Puma Shoes",
+      "price": "20000",
+      "color": "Blue",
+      "category": "Shoes",
+      "description": "Puma Shoes for Running",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/195569/24/sv01/fnd/IND/fmt/png/Softride-Enzo-Nxt-Youth-Running-Shoes",
+      "id": 5
+    },
+    {
+      "name": "Mini Bag",
+      "price": "5000",
+      "color": "White",
+      "category": "Bags",
+      "description": "Backpack purse for women",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXow8LnJ3sT50Pw8-9giSHfrGuDHnORNnXg&usqp=CAU",
+      "id": 6
+    },
+    {
+      "name": "Apple Watch ",
+      "price": "27900",
+      "color": "Pink",
+      "category": "Watches",
+      "description": "Elevate your style and productivity with this Apple Watch SE GPS",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685969696/Croma%20Assets/Communication/Wearable%20Devices/Images/262051_rfzt1a.png?tr=w-360",
+      "id": 7
+    },
+    {
+      "name": "Navey Trolley Bags",
+      "price": "30000",
+      "color": "Pink",
+      "category": "Lagguage",
+      "description": "Best Lagguage bags for travelling",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVDNf65M3Mhy3SI3EduhswR9C79FopEccFA&usqp=CAU",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "kutty",
+      "email": "kutty@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "Neha",
+      "email": "Neha@gmail.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "sneha",
+      "email": "sneha@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Vanitha",
+      "email": "vanitha@user.com",
+      "password": "abc123",
+      "id": 5
+    },
+    {
+      "name": "Naresh",
+      "email": "naresh@user.com",
+      "password": "abc123",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung Galaxy M51",
+      "price": "23000",
+      "color": "Sky Blue",
+      "category": "Mobile",
+      "description": "samsung prod",
+      "image": "https://m.media-amazon.com/images/I/516f8bKMO0L._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 3,
+      "productId": 2,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "HP laptop Pro",
+      "price": "100000",
+      "color": "White",
+      "category": "Lapop",
+      "description": "HP Laptop has updated",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-jW-YGHtX9Aa3DmrCtU-PiH9UVgnxgd7ng&usqp=CAU",
+      "quantity": 10,
+      "productId": 1,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Puma Shoes",
+      "price": "20000",
+      "color": "Blue",
+      "category": "Shoes",
+      "description": "Puma Shoes for Running",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/195569/24/sv01/fnd/IND/fmt/png/Softride-Enzo-Nxt-Youth-Running-Shoes",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 5,
+      "id": 4
+    },
+    {
+      "name": "Puma Shoes",
+      "price": "20000",
+      "color": "Blue",
+      "category": "Shoes",
+      "description": "Puma Shoes for Running",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/195569/24/sv01/fnd/IND/fmt/png/Softride-Enzo-Nxt-Youth-Running-Shoes",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "name": "HP laptop Pro",
+      "price": "100000",
+      "color": "White",
+      "category": "Lapop",
+      "description": "HP Laptop has updated",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-jW-YGHtX9Aa3DmrCtU-PiH9UVgnxgd7ng&usqp=CAU",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "name": "HP laptop",
+      "price": "120000",
+      "color": "Black",
+      "category": "Lapop",
+      "description": "HP Laptop",
+      "image": "https://img6.gadgetsnow.com/gd/images/products/additional/large/G448534_View_1/computer-laptop/laptops/hp-15s-fq3071tu-intel-celeron-n4500-15-6-inches-entertainment-laptop-8gb-512gb-ssd-windows-11-natural-silver-1-69-kg-.jpg",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 4,
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "email": "sneha@user.com",
+      "Address": "Hyderabad area 4",
+      "contact": "2222",
+      "totalPrice": 187210,
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "email": "sneha@user.com",
+      "Address": "Nellore sector 122",
+      "contact": "9999",
+      "totalPrice": 187210,
+      "userId": 4,
+      "id": 2
+    }
+  ]
+}

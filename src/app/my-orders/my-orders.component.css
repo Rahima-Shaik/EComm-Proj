@@ -1,0 +1,29 @@
+h1 {
+    color:blueviolet;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+
+img {
+    width: 50%;
+    height: 73px;
+}
+
+.form-button {
+    height: 35px;
+    border: 1px solid blueviolet;
+    border-radius: 2px;
+    cursor: pointer;
+    color: blueviolet;
+}
+.order-data{
+    margin-top:10px;
+    margin-bottom: 10px;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.order-heading{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 7px;
+}
